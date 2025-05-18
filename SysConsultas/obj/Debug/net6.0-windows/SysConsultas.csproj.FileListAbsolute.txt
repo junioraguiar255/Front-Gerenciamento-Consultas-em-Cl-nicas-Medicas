@@ -1,0 +1,105 @@
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\SysConsultas.exe
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\SysConsultas.deps.json
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\SysConsultas.runtimeconfig.json
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\SysConsultas.dll
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\SysConsultas.pdb
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.csproj.AssemblyReference.cache
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.Form1.resources
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmCadastrarMedico.resources
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmListarMedico.resources
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.MenuPrincipal.resources
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.csproj.GenerateResource.cache
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.AssemblyInfoInputs.cache
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.AssemblyInfo.cs
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.csproj.CoreCompileInputs.cache
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.csproj.CopyComplete
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.dll
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\refint\SysConsultas.dll
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.pdb
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.genruntimeconfig.cache
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\ref\SysConsultas.dll
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmCadastrarPaciente.resources
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmListarPaciente.resources
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmAgendamento.resources
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmBuscaPaciente.resources
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmBuscaMedicos.resources
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmListarAgendamento.resources
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmCancelarAgendamento.resources
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmMinhasConsultas.resources
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmInserirObservacoes.resources
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\Josemar\source\repos\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmCadastroUsuario.resources
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\SysConsultas.exe
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\SysConsultas.deps.json
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\SysConsultas.runtimeconfig.json
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\SysConsultas.dll
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\SysConsultas.pdb
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.csproj.AssemblyReference.cache
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.Form1.resources
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmAgendamento.resources
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmBuscaMedicos.resources
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmBuscaPaciente.resources
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmCadastrarMedico.resources
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmCadastrarPaciente.resources
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmCadastroUsuario.resources
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmCancelarAgendamento.resources
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmInserirObservacoes.resources
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmListarAgendamento.resources
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmListarMedico.resources
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmListarPaciente.resources
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmMinhasConsultas.resources
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.MenuPrincipal.resources
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.csproj.GenerateResource.cache
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.AssemblyInfoInputs.cache
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.AssemblyInfo.cs
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.csproj.CoreCompileInputs.cache
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.csproj.CopyComplete
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.dll
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\refint\SysConsultas.dll
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.pdb
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.genruntimeconfig.cache
+C:\Users\caioc\OneDrive\Área de Trabalho\dev\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\ref\SysConsultas.dll
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\SysConsultas.exe
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\SysConsultas.deps.json
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\SysConsultas.runtimeconfig.json
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\SysConsultas.dll
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\SysConsultas.pdb
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\itextsharp.dll
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\bin\Debug\net6.0-windows\RestSharp.dll
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.csproj.AssemblyReference.cache
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.Form1.resources
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmAgendamento.resources
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmBuscaMedicos.resources
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmBuscaPaciente.resources
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmCadastrarMedico.resources
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmCadastrarPaciente.resources
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmCadastroUsuario.resources
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmCancelarAgendamento.resources
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmInserirObservacoes.resources
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmListarAgendamento.resources
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmListarMedico.resources
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmListarPaciente.resources
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.frmMinhasConsultas.resources
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.MenuPrincipal.resources
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.csproj.GenerateResource.cache
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.GeneratedMSBuildEditorConfig.editorconfig
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.AssemblyInfoInputs.cache
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.AssemblyInfo.cs
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.csproj.CoreCompileInputs.cache
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsu.3EDF7A2C.Up2Date
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.dll
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\refint\SysConsultas.dll
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.pdb
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\SysConsultas.genruntimeconfig.cache
+J:\Nova-versao-consultamedica\SysConsultas\SysConsultas\SysConsultas\obj\Debug\net6.0-windows\ref\SysConsultas.dll
