@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAgendamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBuscaMedicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBuscaPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCadastrarMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCadastrarPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCadastroUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCancelarAgendamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmInserirObservacoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListarAgendamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListarMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListarPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMinhasConsultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
